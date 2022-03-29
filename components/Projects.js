@@ -1,7 +1,6 @@
 import React from "react";
 import { Project } from "./Project";
 import { projectDetails } from "../data";
-import {motion} from 'framer-motion';
 
 
 const Projects = () => {
