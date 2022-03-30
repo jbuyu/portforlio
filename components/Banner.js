@@ -19,8 +19,7 @@ const Banner = () => {
             software applications that offer value. I Mostly build projects
             with
             <strong>Typescript, Node</strong>, <strong>React/vue & </strong>
-            <strong> MongoDB/PostgreSQL</strong>. Lately, I've been
-            experimenting with <strong>Rust & Flutter.</strong>
+            <strong> MongoDB/PostgreSQL</strong>.
           </h4>
           <div className="md:absolute bottom-0 py-3 space-x-8 flex flex-grow items-center w-60 text-center ">
             <a
