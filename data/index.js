@@ -25,11 +25,13 @@ export const projectDetails = [
     name: 'Star Homecaree Services',
     summary: 'Medical App With admin.',
     description:
-      'Medical app with a companion admin app for updating consulations and diagnosis. Built with Nexjs, Nodejs, Tailwind and Twilio for sms.',
+      'Medical app with a companion admin app(React) for updating consulations and diagnosis. Client app Built with Nextjs (Optimal seo), Nodejs, Tailwind and Twilio(admin app) for sms.',
     technologies: [
       { tech: 'Node' },
-      { tech: 'Nexjs' },
-      { tech: 'Tailwindjs' },
+      { tech: 'Nextjs' },
+      { tech: 'Formik' },
+      { tech: 'Tailwindcss' },
+      { tech: 'Redux toolkit' },
       { tech: 'Twilio' },
     ],
   },
@@ -42,7 +44,7 @@ export const projectDetails = [
     name: 'Kisumu Home Doctors',
     summary: 'Medical App.',
     description:
-      'Medical app conneting patients and doctors. Built with gatsbyjs, mailchimp for emails and alternative sanity content management system.',
+      'Medical app conneting patients and doctors. Built with gatsbyjs, mailchimp for emails and an alternative sanity content management system for users to update the page content on their own.',
     technologies: [
       { tech: 'Node' },
       { tech: 'Gatsby' },
@@ -61,7 +63,7 @@ export const projectDetails = [
     description:
       'Next.js site for the boldstep initiative programme.Connecting youths all over the country.',
     technologies: [
-      { tech: 'Nexjs' },
+      { tech: 'Nextjs' },
       { tech: 'React' },
       { tech: 'Styled components' },
     ],
