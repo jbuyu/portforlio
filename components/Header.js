@@ -48,7 +48,7 @@ const Header = () => {
             <li>
               <a
                 className="text-sm font-bold text-gray-600 px-2 py-1 hover:bg-gray-300 cursor-pointer rounded transition-colors duration-300"
-                href="/resume.pdf"
+                href="/res.pdf"
                 target="blank"
               >
                 <RoughNotation color="#4F46E5" type="circle" show={show}>
