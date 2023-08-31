@@ -18,7 +18,7 @@ export const projectDetails = [
   },
   {
     id: 2,
-    link: 'https://www.starhomecareservices.com/',
+    link: 'https://realdoc.vercel.app/',
     alt: 'star doc',
     image: '/stardoc.png',
     pane: 'right',
